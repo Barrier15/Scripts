@@ -20,7 +20,7 @@ The dim light of a red dwarf star bathes the tidally locked planet of Herculaneu
 
 BRIANNA POLYWELL, a young biracial engineer dons EVA space suit number "8" as she stands on the hull of the nearly completed *Ember One*, a large, trilobite-like ship with four enormous engine nacelles jetting out from the body in place of the legs.
 
-.TITLE CARD  
+!TITLE CARD  
 
 Construction robots continuously position prefabricated segments into the ship and fasten them using specialized arms. Brianna monitors the machines from a holographic display projected on her visor as their task nears completion. She cheers and pumps her fists into the "air" as the last piece is nano-welded into place. A holographic message is projected on her visor:
 
@@ -628,9 +628,7 @@ Lights.
 
 The lights dim.
 
-FADE TO:
-
-.BLACK
+FADE TO BLACK:
 
 INT. EMBER ONE WINDOWED CORRIDOR - DAY
 
@@ -761,11 +759,11 @@ Samantha beams a cheshire cat grin.
 SAMANTHA
 Open it.
 
-.FROM INSIDE THE CRATE
+!FROM INSIDE THE CRATE
 
 Darkness gives way to light as Brianna opens the crate.
 
-.BACK TO SCENE.
+!BACK TO SCENE
 
 Inside the crate is a frame with a negative space in the center shaped like a sphere. At the back of the sphere is an abstract depiction of Leonardo da Vinci's Vitruvian Man.
 
@@ -789,7 +787,7 @@ Brianna sets the headset down and picks up the suit, dangling it in front of her
 SAMANTHA
 Wanna give it a try?
 
-.LATER
+!LATER
 
 Brianna finishes zipping up the front of the suit. She presses a button, and the suit tightens around her body for a snug fit.
 
@@ -802,7 +800,7 @@ Oh, yeah. It needs... uh... complete skin contact to interact with your nervous 
 
 Brianna steps inside the interior of the rig, and Samantha reaches to place the headset on her head.
 
-.FROM BRIANNA'S VIEWPOINT
+!FROM BRIANNA'S POV
 
 Samantha puts the headset on Brianna. Reality burns away like paper, revealing...
 
@@ -1070,7 +1068,7 @@ Okay, now don't think about making the broom fly. You don't control the broom, y
 
 Brianna closes her eyes.
 
-.IMAGINING - ENDLESS OCEAN
+.IMAGINED ENDLESS OCEAN
 
 Brianna floats alone in clear water, as if for an eternity, her body glowing in the darkness.
 
@@ -1241,11 +1239,11 @@ Samantha starts to fly towards Brianna, but Brutalia grabs the end of her broom 
 SAMANTHA
 What is it?
 
-.BRUTALIA'S VIEWPOINT
+!BRUTALIA'S POV
 
 Objects resembling ocean mines float in distorted space around Brianna, connected in a matrix together by thin black beams. They drift about slowly but continuously.
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 BRUTALIA
 She's stuck in an interdimensional minefield. I'm the only one of us who can see those things, so I'll lead her out.
@@ -1342,7 +1340,7 @@ Brutalia looks away.
 BRUTALIA
 Whatever.
 
-SAMANTA
+SAMANTHA
 Don't look so glum, Brute. She couldn't have done it without your Ocarina.
 
 BRUTALIA
@@ -1490,11 +1488,11 @@ There has to be something I can do.
 
 She carefully takes the Mirror of Truth from her belt. She looks at herself in the mirror. Behind her in the reflection is the two doors she came in through. She sets the mirror down above the pit where the floor should be, and it simply floats there, held up by the real-but-unseen floor.
 
-.CLOSE UP ON MIRROR
+!CLOSE UP ON MIRROR
 
 There is a spell engraved along the rim of the mirror, written using indecipherable runes.
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 Brianna sighs with frustration, then has an idea.
 
@@ -1545,7 +1543,7 @@ No problem, we just sever the umbilical. Not even a demon god can stop this team
 
 Suddenly, the blades sweep upward and circle down towards the center of the team. The team is driven apart, dodging out of the way. All except for Brianna, who is impaled by a half dozen swords.
 
-.BRIANNA'S VIEWPOINT
+!BRIANNA'S POV
 
 Samantha rushes up and pulls out some of the swords. She cradles Brianna's head. Blood pours out of the wounds.
 
@@ -1566,18 +1564,18 @@ INT. TWILIGHT REALM
 
 Brianna stands in endless darkness. At first, nothing else is visible, but after a moment, she sees a man facing away from her.
 
-As she approaches the man, he turns to reveal that he is the deceased ELVEN KING.
+As she approaches the man, he turns to reveal that he is the deceased elven king, KING VOLODAR.
 
 BRIANNA
 Where am I?
 
-ELVEN KING
+KING VOLODAR
 The Twilight. This is where the dead wait for entry into the afterlife. What is your name, young lady?
 
 BRIANNA
 Brianna. Brianna Polywell.
 
-ELVEN KING
+KING VOLODAR
 A pleasure to meet you. I am KING VOLODAR Fenren III, former ruler of Ljosalfheim.
 
 BRIANNA
@@ -1635,13 +1633,13 @@ We'll handle the monsters. You have to get through to the Prince. As long as he'
 
 The prince approaches Brianna as she plays the final notes of the lullaby. Upon finishing, her kingly robes and other elven trappings fade away.
 
-PRINCE ALINAR
+ALINAR
 Who are you? How is it you know the lullaby my father played me as a child?
 
 BRIANNA
 Your father sent me here to help you, to free you from a monster who has taken hold of your heart. He wishes he could be here himself--
 
-PRINCE ALINAR
+ALINAR
 You speak in riddles.
 (gesturing to the Eldritch Horror)
 My father, the King, is right here.
@@ -1653,7 +1651,7 @@ Heed not the words of this vile witch. She has come here to murder me, to end my
 BRIANNA
 That's not the King. He's poisoned your mind. If you'll just look at him in the mirror's reflection below your feet--
 
-PRINCE ALINAR
+ALINAR
 Your tricks will not deceive me. No conjured mirror will make me abandon my father and King.
 
 BRIANNA
@@ -1661,7 +1659,7 @@ Your father lies dead in that casket. You know this. You are here at his wake. P
 
 The Prince notices the casket, but looks away.
 
-PRINCE ALINAR
+ALINAR
 I won't look. I don't need to. My King--my father cannot die.
 (Eyes welling up with tears.)
 He can't.
@@ -1696,7 +1694,7 @@ I'm sorry for this...
 
 She walks over to the casket and lifts the lid to reveal the King's lifeless corpse.
 
-PRINCE ALINAR
+ALINAR
 He's... He's just... sleeping...
 
 Brianna takes his hands and looks into his eyes.
@@ -1706,7 +1704,7 @@ I know how you feel. You never spend as much time as you want with your father, 
 
 The Prince gazes down at his father's corpse.
 
-PRINCE ALINAR
+ALINAR
 What if you never had to feel that?
 
 BRIANNA
@@ -1714,7 +1712,7 @@ Then that would be the greatest tragedy, because if I felt nothing--nothing at a
 
 Millipede vines that radiate out of the umbilical into the the Prince's flesh begin to recede, but they begin to resist.
 
-PRINCE ALINAR
+ALINAR
 I'm not strong enough. Not like him. He was a rock. He held this kingdom together through sheer force of will. I was always the disappointment, the pretender, the spoiled child who would be king.
 
 BRIANNA
@@ -1730,7 +1728,7 @@ The chimera rears back, but the rest of Team Nightfury are upon him. Bits of the
 
 Finally, only a single lump of sludge is left of the Eldritch Horror.
 
-.ELDRITCH HORROR'S VIEWPOINT
+!ELDRITCH HORROR'S POV
 
 The Prince, Brianna and the rest of Team Nightfury tower above, each with a melee weapon drawn. Together, they all stab the horror in unison.
 
@@ -1740,7 +1738,7 @@ INT. THRONE ROOM - DAY
 
 Team Nightfury, dressed in stately garb, stand in attendance as the Prince is coronated. Upon completion of the ceremony, the new King Alinar steps down from the throne and walks over to the team.
 
-KING ALINAR
+ALINAR
 For the bravery you have shown in coming to my aid, I don't know how I can possibly thank you.
 
 Samantha pretends to ponder the conundrum.
@@ -1748,13 +1746,13 @@ Samantha pretends to ponder the conundrum.
 SAMANTHA
 Hmm. Well, Your Highness, I guess money's always good.
 
-KING ALINAR
+ALINAR
 (smiling)
 Of course. You may have your weight in gold if you wish.
 
 The new King then approaches Brianna and takes her hand.
 
-KING ALINAR
+ALINAR
 I can never forget your kindness in particular. As a king, I am expected to marry and produce an heir, and I can think of no better wife than the woman who embodies the very spirit of my ancestors. If you would stay with me, I would give you a life of endless luxury and wonders beyond imagination.
 
 BRUTALIA
@@ -1769,23 +1767,23 @@ Brianna tilts her head down for a moment, then looks up at King Alinar with a ge
 BRIANNA
 King Alinar, I'm sorry, but I must decline your most generous proposal. My place is with my friends.
 
-KING ALINAR
+ALINAR
 I understand, and I respect your decision. However, know that when you leave, you will take a part of my heart with you, and that is a wound time may never heal.
 
 He kisses Brianna's hand.
 
-KING ALINAR (CONT.)
+ALINAR (CONT.)
 No doubt your adventures will be filled with peril. Allow me to give you something that will aid in your journeys.
 
 The King gives Brianna a silver wand of elven design. It glows a brilliant blue in her hands.
 
-KING ALINAR (CONT.)
+ALINAR (CONT.)
 This wand has been in my family for ten generations. As a family of swordsmen, my family has little use for the tools of spell casting. Perhaps it would be put to better use in the hands of a good witch such as yourself.
 
 BRIANNA
 You are too kind, Your Highness.
 
-KING ALINAR
+ALINAR
 (to the team)
 You are forever welcome in my kingdom. Good luck and godspeed to you all.
 
@@ -2358,9 +2356,7 @@ No damage detected. Shield plasma reserves are at eighty two percent.
 CAPTAIN LE GUIN
 Cancel general quarters.
 
-CUT TO:
-
-.A MOMENT LATER
+!LATER
 
 The blast doors open up to reveal a view of space through the front window.
 
@@ -2469,7 +2465,7 @@ You mean like a real dress? I don't need one.
 
 Samantha takes out a pair of what look like safety glasses and puts them on Brianna's face.
 
-.BRIANNA'S POINT OF VIEW
+!BRIANNA'S POV
 
 The surroundings of the old station have been transformed into and extravagant resort with walls of ivory and cedar, and gold-embroidered carpets the color of wine.
 
@@ -2481,7 +2477,7 @@ Is this how you see everything all the time? In some kind of augmented reality p
 SAMANTHA
 That's how most Venusians see the world. We live in small, cramped floating habitats with limited resources. It helps to see the world with rose-colored glasses.
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 Brianna takes off the glasses and hands them back to Samantha.
 
@@ -2497,7 +2493,7 @@ Welcome to our humble abode. Shall we get started with your...
 (dramatic pause)
 ...transformation?
 
-.MONTAGE
+!MONTAGE
 
 - Cassidy takes Samantha behind a dressing screen. She give Samantha a series of dresses to try on from her closet.
 
@@ -2507,7 +2503,7 @@ Welcome to our humble abode. Shall we get started with your...
 
 - Samantha is ready for a night on the town.
 
-.END MONTAGE
+!END MONTAGE
 
 Samantha, Brianna and Katy sit down on the bed, joining Jason, while Cassidy goes behind the dressing screen to pick an outfit.
 
@@ -2600,7 +2596,7 @@ Don't worry. I'll make sure she gets back to her room, safe and sound.
 
 She gives Noah and adversarial grin and pulls Brianna forward to catch up with her friends. Noah watches until she's out of sight, frowns slightly, then continues into the station.
 
-INT. SHIP CORRIDOR - NIGHT
+INT. UNITY CORRIDOR - NIGHT
 
 The group approaches a door with a sign marked "Warning: Habitat incomplete beyond this point". Cassidy casually pulls the sign off the door and tosses it aside, then presses a button to open the door. The group enters.
 
@@ -2729,7 +2725,7 @@ Wait, this is a waltz.
 SAMANTHA
 It just so happens that the waltz is my specialty. I'll lead.
 
-.MONTAGE
+!MONTAGE
 
  - Samantha glides gracefully about the dance floor and Brianna fumbles to catch up.
 
@@ -2737,7 +2733,7 @@ It just so happens that the waltz is my specialty. I'll lead.
 
  - Time slows down, and the dancers glide gracefully in front of the stars, then the colorful lights of the party, and back, over and over again.
 
-.END MONTAGE
+!END MONTAGE
 
 The waltz finishes, replaced by a more contemporary pop dance beat. Katy, despondent and chipless, staggers towards them. They pull her onto the dance floor, and the three dance freestyle, making up the moves as they go.
 
@@ -2773,7 +2769,7 @@ Brianna and Katy push Samantha through the entrance, and she goes flying across 
 
 Just then, Katy, with a suspicious level of skill, bounces toward them and shoves them back towards the wall, cancelling her own momentum and allowing her to float gracefully in place.
 
-.MONTAGE
+!MONTAGE
 
  - Brianna, Samantha and Katy form a triangle and spin about like a wheel.
 
@@ -2783,7 +2779,7 @@ Just then, Katy, with a suspicious level of skill, bounces toward them and shove
 
  - The three pretend to swim in the zero-G environment.
 
-.END MONTAGE
+!END MONTAGE
 
 Abruptly, the anti-gravity in the bouncy castle cuts out, sending everyone falling to the cushioned floor. Brianna, Samantha and Katy get to the entrance and start helping people out of the castle.
 
@@ -3234,7 +3230,7 @@ EXT. RAILGUN
 
 The railgun fires.
 
-.CUT TO BLACK.
+!CUT TO BLACK
 
 FADE IN:
 
@@ -3346,11 +3342,11 @@ Brianna turns just as Noah strikes. She manages to dodge, slipping off the catwa
 
 Brianna scurries on hand and knee around the subfloor under the grates, crawling over cables and pipes. Noah walks around above her, searching with a spotlight on his exoframe. The light projects through the grating onto the subfloor near her, and she evades it.
 
-.NOAH'S POV
+NOAH'S POV
 
 Noah activates "Short-Range Signal Triangulation" on his HUD.
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 NOAH
 I bet I know what you're thinking. How did I hack the DNA upgrade if the biochips require a digital signature from the factory?
@@ -3434,11 +3430,11 @@ Noah smiles in triumph, then squeezes Brianna's helmet, causing it to crack.
 NOAH
 Better decide quickly.
 
-.BRIANNA'S POV
+!BRIANNA'S POV
 
 A warning displays on her HUD warning that the suit pressure is dropping. Brianna's panicked breathing grows more labored as the pressure drops. Her hands press against the cracks to hold back the air. Then, Brianna's attention turns to something on Noah's EVA suit within the exoframe: the number "8".
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 Behind her back, Brianna carefully reaches for a screwdriver on her belt.
 
@@ -3541,7 +3537,7 @@ Noah lands near transit car and turns toward the corridor.
 NOAH
 I warned you about your oxygen. Sounds like you're about to run out.
 
-INT. UNITY LONG CORRIDOR - NIGHT
+INT. UNITY CORRIDOR - NIGHT
 
 Noah strides confidently down the corridor without stopping.
 
@@ -3639,11 +3635,11 @@ A spray of vapor comes from the vents, accompanied by the sound of rushing air. 
 BRIANNA
 That would be the AI core coming back online.
 
-.CLOSE UP ON BRIANNA'S HOLOBAND
+!CLOSE UP ON BRIANNA'S HOLOBAND
 
 A holographic message just above the surface of the holoband reads: "New file uploaded."
 
-.BACK TO SCENE
+!BACK TO SCENE
 
 TOKAMAK (INTERCOM)
 ...Does anyone read me? Primary communications are back online. What's going on over there?
@@ -3818,7 +3814,7 @@ All systems are nominal.
 CAPTAIN LE GUIN
 Very well. Lieutenant Stratus, bring us to event velocity.
 
-The Captain's holographic display of the ship's systems list the velocity climbing from "4,000c" to "4,128c".
+The Captain's holographic display of the ship's systems shows its velocity climbing from "4,000c" to "4,128c".
 
 SAMANTHA (INTERCOM)
 Event velocity reached.
